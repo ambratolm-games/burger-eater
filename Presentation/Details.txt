@@ -1,0 +1,35 @@
+﻿[Details]
+
+[General]
+Title : Burger Eater
+Release Date : 2018
+Version : 1.0
+Languages : English
+Platform : Android
+File Size : ~0MB
+Author : Ambratolm
+Company : Elhafid Games
+
+[Description]
+Burgers are delicious. Eat them all !
+
+[How To Play]
+The burger eater is a carnivorous plant that loves to eat burgers.
+The plant hates when there's a uneatable burger on the floor.
+Eat the falling burgers before they reach the floor and climb to the highest ranks of burger fans.
+
+[Credits]
+Game : Ambratolm
+Graphics : Ambratolm
+Audio : Ambratolm
+
+[Special Thanks]
+Mother
+Father
+Brother
+Sister
+
+[Copyright]
+Game 2018 Version 1.0 
+Copyright © 2018 Elhafid Games
+Game by	Ambratolm
